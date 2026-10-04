@@ -1,4 +1,4 @@
-public class Bus extends Transport{
+public class Bus extends Transport {
     public Bus(PaymentMethod paymentMethod){
         super(paymentMethod);
     }

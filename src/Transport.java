@@ -1,4 +1,4 @@
-public abstract class Transport {
+public abstract class Transport{
     protected PaymentMethod paymentMethod;
 
     public Transport(PaymentMethod paymentMethod){

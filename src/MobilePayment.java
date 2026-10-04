@@ -1,4 +1,4 @@
-public class MobilePayment implements PaymentMethod {
+public class MobilePayment implements PaymentMethod{
 
     @Override
     public void pay(double amount) {

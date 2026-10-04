@@ -1,4 +1,4 @@
-public class LRT extends Transport{
+public class LRT extends Transport {
     public LRT(PaymentMethod paymentMethod){
         super(paymentMethod);
     }
